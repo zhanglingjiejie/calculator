@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "苹果计算器",
+  "navigationBarBackgroundColor": "#000000",
+  "navigationBarTextStyle": "white",
+  "navigationStyle": "custom",
+  "usingComponents": {}
+}

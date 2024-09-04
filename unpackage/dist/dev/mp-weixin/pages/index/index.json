@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "计算器达人",
+  "navigationBarBackgroundColor": "#0072ff",
+  "navigationBarTextStyle": "white",
+  "navigationStyle": "custom",
+  "usingComponents": {}
+}
